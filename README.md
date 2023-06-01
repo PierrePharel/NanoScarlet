@@ -41,6 +41,6 @@ L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effect
 * pitches
 
 # Credits
-[DIY Builder](https://www.youtube.com/@DIYBuilder)
-[Prateek Verma](https://www.youtube.com/@prateekverma22)
-[ELEGOO] (https://www.elegoo.com)
+*[DIY Builder](https://www.youtube.com/@DIYBuilder)
+*[Prateek Verma](https://www.youtube.com/@prateekverma22)
+*[ELEGOO] (https://www.elegoo.com)
