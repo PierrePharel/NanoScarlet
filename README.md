@@ -1,7 +1,12 @@
 # NanoScarlet
+![scarlet](assets/scarlet-logo.png)
 
 ## Description
-L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effectuer les deplacement simple, sur surface plane (nord, sud, est et ouest)
+L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effectuer les deplacement simple, sur surface plane (nord, sud, est et ouest). Tout en proposant certain mode de déplacement spécifique, tel que :
+* Le suivi de ligne
+* La gestion des obstacle
+* Le suivi automatique
+
 ## Fabrication
 
 ### Matériel nécessaire
@@ -19,8 +24,9 @@ L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effect
 * Module de guidage linéaire
 * SG90 Servo (x1)
 
-### Modèle 3D (plage supérieure)
+### Modèle 3D
 ![top-model](assets/top-model.png)
+![bottom-model](assets/bottom-model.png)
 
 ### Schéma de câblage général
 ![main-scheme](assets/main-scheme.png)
@@ -33,3 +39,8 @@ L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effect
 * FastLED
 * NewPing (pour le partage de la sortie caméra)
 * pitches
+
+# Credits
+[DIY Builder](https://www.youtube.com/@DIYBuilder)
+[Prateek Verma](https://www.youtube.com/@prateekverma22)
+[ELEGOO] (https://www.elegoo.com)
