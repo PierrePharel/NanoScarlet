@@ -45,4 +45,4 @@ L'objectif de ce projet est la construction d'un robot 4 roues, capable d'effect
 
 [Prateek Verma](https://www.youtube.com/@prateekverma22)
 
-[ELEGOO] (https://www.elegoo.com)
+[ELEGOO](https://www.elegoo.com)
